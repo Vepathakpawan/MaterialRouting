@@ -2,7 +2,11 @@
 
 
 ![screenshot-localhost-59142-user-1617021885149](https://user-images.githubusercontent.com/80150887/112838885-67e96880-9052-11eb-8ac0-5a25ce0a7265.png)
+
+
 ![screenshot-localhost-59142-userdetails-1617021908577](https://user-images.githubusercontent.com/80150887/112838898-6b7cef80-9052-11eb-936d-6a88fe0e9d9c.png)
+
+
 ![screenshot-localhost-59142-info-1617021922079](https://user-images.githubusercontent.com/80150887/112838918-72a3fd80-9052-11eb-9f11-600c4cd19e86.png)
 
 
